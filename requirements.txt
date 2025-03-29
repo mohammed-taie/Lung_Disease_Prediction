@@ -1,0 +1,9 @@
+streamlit
+tensorflow>=2.0
+numpy
+opencv-python
+pillow
+pandas
+matplotlib
+scipy
+reportlab
