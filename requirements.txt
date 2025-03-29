@@ -1,10 +1,10 @@
-streamlit==1.28.0
-tensorflow-cpu==2.10.0
-numpy==1.23.5
-opencv-python-headless==4.7.0.72
-pillow==9.5.0
-pandas==1.5.3
-matplotlib==3.7.1
-scipy==1.10.1
-reportlab==4.0.4
-protobuf==3.19.6  # Specific version that works with both Streamlit and TensorFlow
+streamlit==1.22.0  # Older version that accepts protobuf<3.20
+tensorflow-cpu==2.8.0
+numpy==1.21.6
+opencv-python-headless==4.5.5.64
+pillow==9.1.1
+pandas==1.4.3
+matplotlib==3.5.3
+scipy==1.8.1
+reportlab==3.6.12
+protobuf==3.19.6
